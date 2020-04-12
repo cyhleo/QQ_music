@@ -19,7 +19,7 @@
 
 # 运行方法
 
-执行run.py
+执行qqmusic/run.py
 
 
 # 告示

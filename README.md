@@ -4,6 +4,7 @@
 
 # 部分结果展示
 
+![](https://github.com/cyhleo/QQ_music/blob/master/qq_music.png)
 
 
 # 项目说明
